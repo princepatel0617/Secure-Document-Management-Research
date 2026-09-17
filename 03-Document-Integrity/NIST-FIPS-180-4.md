@@ -8,7 +8,7 @@
 **Published:** August 2015
 
 **Official Source:**  
-https://csrc.nist.gov/pubs/fips/180-4/upd1/final
+https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
 
 ---
 

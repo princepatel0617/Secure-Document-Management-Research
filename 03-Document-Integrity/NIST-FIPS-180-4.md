@@ -8,7 +8,23 @@
 **Published:** August 2015
 
 **Official Source:**  
-https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
+## 📖 Relevant Sections from NIST FIPS 180-4
+
+### 1. Document Integrity & Change Detection
+
+This section explains that secure hash algorithms can determine the integrity
+of a message and that a change to the message will, with very high
+probability, result in a different message digest.
+
+[Open PDF](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf#page=15)
+
+---
+
+### 2. SHA-256 Digest Size & Algorithm
+
+**Relevant Topic:** SHA-256 produces a 256-bit message digest
+
+[Open PDF](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf#page=25)
 
 ---
 
